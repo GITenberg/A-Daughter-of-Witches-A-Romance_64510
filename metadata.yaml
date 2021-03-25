@@ -1,5 +1,8 @@
 _repo: A-Daughter-of-Witches-A-Romance_64510
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64510-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, Joanna E. (Joanna Ellen)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '50192'
     url: http://www.gutenberg.org/2009/agents/50192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64510#A-Daughter-of-Witches-A-Romance
 gutenberg_issued: '2021-02-09'
 gutenberg_type: Text
 identifiers:
